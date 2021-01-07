@@ -1,0 +1,3 @@
+[submodule "include/ipxe"]
+	path = include/ipxe
+	url = https://github.com/ipxe/ipxe
